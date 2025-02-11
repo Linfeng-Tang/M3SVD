@@ -7,9 +7,10 @@
 <p align="center">
     <em>Visualization of various scenarios in our M3SVD dataset.</em>
 </p>
-
+## Note: This project currently only contains test videos, for more video sequences please contact: linfeng0419@gmail.
 ## Video Demo
-Here are some demo videos showcasing our M3SVD dataset:
+Here are some demo videos presented in graphics interchange format (GIF) showcasing our M3SVD dataset:
+
 
 ![Demo GIF](https://github.com/Linfeng-Tang/M3SVD/blob/main/Video/Demo/0118_1803.gif)
 
