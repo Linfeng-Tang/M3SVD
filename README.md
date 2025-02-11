@@ -19,14 +19,3 @@ Here are some demo videos showcasing our M3SVD dataset:
 
 ![Demo GIF](https://github.com/Linfeng-Tang/M3SVD/blob/main/Video/Demo/0115_1831.gif)
 
-![Demo GIF](https://github.com/Linfeng-Tang/M3SVD/blob/main/Video/Demo/0111_1803.gif)
-
-![Demo GIF](https://github.com/Linfeng-Tang/M3SVD/blob/main/Video/Demo/0115_1829.gif)
-
-![Demo GIF](https://github.com/Linfeng-Tang/M3SVD/blob/main/Video/Demo/1208_1654.gif)
-
-![Demo GIF](https://github.com/Linfeng-Tang/M3SVD/blob/main/Video/Demo/1208_1711.gif)
-
-![Demo GIF](https://github.com/Linfeng-Tang/M3SVD/blob/main/Video/Demo/1207_1712.gif)
-
-![Demo GIF](https://github.com/Linfeng-Tang/M3SVD/blob/main/Video/Demo/0117_1620.gif)
