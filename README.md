@@ -7,7 +7,11 @@
 <p align="center">
     <em>Visualization of various scenarios in our M3SVD dataset.</em>
 </p>
-## Note: This project currently only contains test videos, for more video sequences please contact: linfeng0419@gmail.
+
+## Dataset Availability
+Note: The current release of the M3SVD dataset includes the test videos. 
+For access to the full dataset, please contact us at linfeng0419@gmail.com. We are happy to collaborate and provide the dataset for research purposes.
+
 ## Video Demo
 Here are some demo videos presented in graphics interchange format (GIF) showcasing our M3SVD dataset:
 
