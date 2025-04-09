@@ -26,7 +26,7 @@ Here are some demo videos presented in graphics interchange format (GIF) showcas
 
 ## If our M2VD dataset is helpful to you, please cite it as：
 ```
-@article{TANG2023VideoFusion,
+@article{TANG2025VideoFusion,
   title={VideoFusion: A Spatio-Temporal Collaborative Network for Mutli-modal Video Fusion and Restoration},
   author={Tang, Linfeng and Wang, Yeda and Gong, Meiqi and Li, Zizhuo and Deng, Yuxin and Yi, Xunpeng and Li, Chunyu and Xu, Han and Zhang, Hao and Ma, Jiayi},
   journal={arXiv preprint arXiv:2503.23359},
