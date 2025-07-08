@@ -31,5 +31,13 @@ Here are some demo videos presented in graphics interchange format (GIF) showcas
 
 ![Demo GIF](https://github.com/Linfeng-Tang/M3SVD/blob/main/Video/Demo/0115_1831.gif)
 
-## If our M2VD dataset is helpful to you, please cite it as：
+## If our M3SVD dataset is helpful to you, please cite it as：
+```
+@article{TANG2025VideoFusion,
+  title={VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion and Restoration},
+  author={Tang, Linfeng and Wang, Yeda and Gong, Meiqi and Li, Zizhuo and Deng, Yuxin and Yi, Xunpeng and Li, Chunyu and Xu, Han and Zhang, Hao and Ma, Jiayi},
+  journal={arXiv preprint arXiv:2503.23359},
+  year={2025}
+}
+```
 
