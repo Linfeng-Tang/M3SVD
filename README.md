@@ -23,7 +23,7 @@
 
 ## Dataset Availability
 Note: The current release of the M3SVD dataset includes the test videos. 
-<!--  For access to the full dataset, please contact us at linfeng0419@gmail.com. We are happy to collaborate and provide the dataset for research purposes. --!>
+<!--  For access to the full dataset, please contact us at linfeng0419@gmail.com. We are happy to collaborate and provide the dataset for research purposes. -->
 
 ## Video Demo
 Here are some demo videos presented in graphics interchange format (GIF) showcasing our M3SVD dataset:
