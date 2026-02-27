@@ -41,42 +41,16 @@
 
 ---
 
-# 🏗 Data Acquisition & Registration
+# 🏗 Data Processing Workflow
+<p align="center">
+  <img src="assets/Workflow.jpg" width="92%">
+</p>
 
-## Capture Device
+# Dataset Comparison (vs. prior works)
+<p align="center">
+  <img src="assets/Dataset_Comparison.jpg" width="92%">
+</p>
 
-- Dual-spectral infrared-visible imaging system
-- Hardware-level temporal synchronization
-- High dynamic range visible sensor
-
-## Registration Pipeline
-
-1. Radial distortion correction for both sensors
-2. Robust multimodal correspondence extraction
-3. Homography estimation
-4. Infrared-to-visible spatial alignment
-
-This ensures **pixel-level registration** suitable for fusion and learning-based methods.
-
----
-
-# 🔬 Why M3SVD?
-
-Compared to prior multi-modal datasets:
-
-| Property | Existing Datasets | M3SVD |
-|-----------|------------------|--------|
-| Video-level | Limited | ✅ Large-scale |
-| Frame count | Small | ✅ 153,797 |
-| Registration | Partial | ✅ Carefully aligned |
-| Degradation diversity | Limited | ✅ Real-world |
-| Designed for temporal fusion | ❌ | ✅ |
-
-M3SVD enables evaluation of:
-
-- Temporal stability
-- Robust fusion under degradation
-- Cross-modal representation learning
 
 ---
 
