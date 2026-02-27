@@ -3,7 +3,7 @@
 <div align="center">
 
 <h2>
-A Large-Scale Infrared-Visible Video Dataset for Fusion and Restoration
+M3SVD: Multi-Modal Multi-Scene Video Dataset
 </h2>
 
 <p>
