@@ -1,53 +1,157 @@
-# M3SVD：Multi-Modal Multi-Scene Video Dataset 
-```
-@article{TANG2025VideoFusion,
-  title={VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion and Restoration},
-  author={Tang, Linfeng and Wang, Yeda and Gong, Meiqi and Li, Zizhuo and Deng, Yuxin and Yi, Xunpeng and Li, Chunyu and Xu, Han and Zhang, Hao and Ma, Jiayi},
-  journal={arXiv preprint arXiv:2503.23359},
-  year={2025}
-}
-```
-## ✨ News  
-- **[2025-02-20]** 🎉 Our paper **"VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion"** has been officially accepted by  **CVPR 2026**! [[Paper](https://arxiv.org/abs/2503.23359)] [[Code](https://github.com/Linfeng-Tang/VideoFusion)]
+# M3SVD: Multi-Modal Multi-Scene Video Dataset
 
-- **[2025-09-18]** Our paper *[ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts](https://arxiv.org/pdf/2503.23356?)* has been officially accepted by **Advances in Neural Information Processing Systems (NeurIPS 2025)**! [[Paper](https://arxiv.org/pdf/2503.23356?)] [[Code](https://github.com/Linfeng-Tang/ControlFusion)]
+<div align="center">
 
-- **[2025-09-10]** Our paper *[Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion](https://ieeexplore.ieee.org/document/11162636)* has been officially accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)**! [[Paper](https://ieeexplore.ieee.org/document/11162636)] [[Code](https://github.com/Linfeng-Tang/Mask-DiFuser)]  
+<h2>
+A Large-Scale Infrared-Visible Video Dataset for Fusion and Restoration
+</h2>
 
-- **[2025-03-15]** Our paper *[C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning](https://github.com/Linfeng-Tang/C2RF)* has been officially accepted by the **International Journal of Computer Vision (IJCV)**! [[Paper](https://link.springer.com/article/10.1007/s11263-025-02427-1)] [[Code](https://github.com/Linfeng-Tang/C2RF)]  
-
-
-## Scenario Schematic
-<div>
-    <img src="https://github.com/Linfeng-Tang/M2VD/blob/main/Video/Demo/datasets.png" alt="Framework" style="display:inline-block;margin-right:20px;margin-bottom:20px;">
-</div>
-<p align="center">
-    <em>Visualization of various scenarios in our M3SVD dataset.</em>
+<p>
+<a href="https://arxiv.org/abs/2503.23359"><img src="https://img.shields.io/badge/Paper-CVPR%202026-blue"></a>
+<a href="https://github.com/Linfeng-Tang/VideoFusion"><img src="https://img.shields.io/badge/Code-VideoFusion-green"></a>
 </p>
 
-## Dataset Availability
-Note: The current release of the M3SVD dataset includes the test videos. 
-<!--  For access to the full dataset, please contact us at linfeng0419@gmail.com. We are happy to collaborate and provide the dataset for research purposes. -->
+</div>
 
-## Video Demo
-Here are some demo videos presented in graphics interchange format (GIF) showcasing our M3SVD dataset:
+---
 
+## ✨ News  
 
-![Demo GIF](https://github.com/Linfeng-Tang/M3SVD/blob/main/Video/Demo/0118_1803.gif)
+- **[2026]** Our paper  
+  **“VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion and Restoration”**  
+  has been accepted to **CVPR 2026**.  
+  [[Paper](https://arxiv.org/abs/2503.23359)]  
+  [[Code](https://github.com/Linfeng-Tang/VideoFusion)]
 
-![Demo GIF](https://github.com/Linfeng-Tang/M3SVD/blob/main/Video/Demo/1230_1154.gif)
+- **[2025]** M3SVD dataset is officially released.
 
-![Demo GIF](https://github.com/Linfeng-Tang/M3SVD/blob/main/Video/Demo/0114_1551.gif)
+---
 
-![Demo GIF](https://github.com/Linfeng-Tang/M3SVD/blob/main/Video/Demo/0115_1831.gif)
+# 📖 Introduction
 
-## If our M3SVD dataset is helpful to you, please cite it as：
-```
-@article{TANG2025VideoFusion,
-  title={VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion and Restoration},
-  author={Tang, Linfeng and Wang, Yeda and Gong, Meiqi and Li, Zizhuo and Deng, Yuxin and Yi, Xunpeng and Li, Chunyu and Xu, Han and Zhang, Hao and Ma, Jiayi},
-  journal={arXiv preprint arXiv:2503.23359},
-  year={2025}
+**M3SVD (Multi-Modal Multi-Scene Video Dataset)** is a large-scale infrared-visible (IR-VI) video dataset designed for:
+
+- 🔥 Multi-modal video fusion  
+- 🌙 Low-light / degraded video restoration  
+- 🎯 Cross-modal perception tasks  
+- 📹 Spatio-temporal modeling research  
+
+Unlike existing datasets that mainly focus on **static image fusion**, M3SVD is specifically constructed for **video-level multi-modal learning**, with emphasis on:
+
+- Temporal consistency  
+- Real-world degradations  
+- Scene diversity  
+- Accurate spatial registration  
+
+---
+
+# 📊 Dataset Statistics
+
+- **220** temporally synchronized IR-VI video pairs  
+- **153,797** aligned frames  
+- Resolution: **640 × 480**  
+- Frame rate: **30 FPS**  
+- Diverse environments:
+  - Daytime
+  - Nighttime
+  - Low illumination
+  - Occlusion
+  - Disguise
+  - Complex backgrounds
+
+---
+
+# 🎥 Scenario Schematic
+
+<p align="center">
+  <img src="Video/Demo/datasets.png" width="92%">
+</p>
+<p align="center">
+  <i>Visualization of representative scenarios in M3SVD.</i>
+</p>
+
+---
+
+# 🏗 Data Acquisition & Registration
+
+## Capture Device
+
+- Dual-spectral infrared-visible imaging system
+- Hardware-level temporal synchronization
+- High dynamic range visible sensor
+
+## Registration Pipeline
+
+1. Radial distortion correction for both sensors
+2. Robust multimodal correspondence extraction
+3. Homography estimation
+4. Infrared-to-visible spatial alignment
+
+This ensures **pixel-level registration** suitable for fusion and learning-based methods.
+
+---
+
+# 🔬 Why M3SVD?
+
+Compared to prior multi-modal datasets:
+
+| Property | Existing Datasets | M3SVD |
+|-----------|------------------|--------|
+| Video-level | Limited | ✅ Large-scale |
+| Frame count | Small | ✅ 153,797 |
+| Registration | Partial | ✅ Carefully aligned |
+| Degradation diversity | Limited | ✅ Real-world |
+| Designed for temporal fusion | ❌ | ✅ |
+
+M3SVD enables evaluation of:
+
+- Temporal stability
+- Robust fusion under degradation
+- Cross-modal representation learning
+
+---
+
+# 🎞 Video Demo
+
+Example sequences (GIF previews):
+
+![Demo GIF](Video/Demo/0118_1803.gif)
+
+![Demo GIF](Video/Demo/1230_1154.gif)
+
+![Demo GIF](Video/Demo/0114_1551.gif)
+
+![Demo GIF](Video/Demo/0115_1831.gif)
+
+---
+
+# 📦 Dataset Availability
+
+- Current release: **Test split**
+- Full dataset access: Please contact  
+  **linfeng0419@gmail.com**
+
+We are open to academic collaboration and research usage.
+
+---
+
+# 🔗 Related Work Using M3SVD
+
+### VideoFusion (CVPR 2026)
+Spatio-temporal collaborative network for multi-modal video fusion and restoration.  
+[[Paper](https://arxiv.org/abs/2503.23359)]  
+[[Code](https://github.com/Linfeng-Tang/VideoFusion)]
+
+---
+
+# 📝 Citation
+
+If you use M3SVD in your research, please cite:
+
+```bibtex
+@inproceedings{Tang2026VideoFusion,
+  title     = {VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion and Restoration},
+  author    = {Tang, Linfeng and Wang, Yeda and Gong, Meiqi and Li, Zizhuo and Deng, Yuxin and Yi, Xunpeng and Li, Chunyu and Zhang, Hao and Xu, Han and Ma, Jiayi},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2026}
 }
-```
-
