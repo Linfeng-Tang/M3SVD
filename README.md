@@ -80,10 +80,8 @@ We are open to academic collaboration and research usage.
 
 # 🔗 Related Work Using M3SVD
 
-### VideoFusion (CVPR 2026)
-Spatio-temporal collaborative network for multi-modal video fusion and restoration.  
-[[Paper](https://arxiv.org/abs/2503.23359)]  
-[[Code](https://github.com/Linfeng-Tang/VideoFusion)]
+### [VideoFusion](https://arxiv.org/abs/2503.23359) (CVPR 2026)
+Spatio-temporal collaborative network for multi-modal video fusion and restoration.  [[Paper](https://arxiv.org/abs/2503.23359)] [[Code](https://github.com/Linfeng-Tang/VideoFusion)]
 
 ---
 
