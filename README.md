@@ -29,21 +29,15 @@
 
 ---
 
-# 📊 Dataset Statistics
-
-- **220** temporally synchronized IR-VI video pairs  
-- **153,797** aligned frames  
-- Resolution: **640 × 480**  
-- Frame rate: **30 FPS** 
----
-
 # 🎥 Scenario Schematic
 
 <p align="center">
   <img src="Video/Demo/datasets.png" width="92%">
 </p>
 <p align="center">
-  <i>Visualization of representative scenarios in M3SVD.</i>
+  <i>Visualization of representative scenarios in M3SVD. 
+    The dataset contains 220 temporally synchronized infrared-visible (IR-VI) video pairs 
+    with 153,797 aligned frames in total, captured at a resolution of 640×480 and 30 FPS.</i>
 </p>
 
 ---
