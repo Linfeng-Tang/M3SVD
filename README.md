@@ -1,11 +1,6 @@
 # M3SVD: Multi-Modal Multi-Scene Video Dataset
 
 <div align="center">
-
-<h2>
-M3SVD: Multi-Modal Multi-Scene Video Dataset
-</h2>
-
 <p>
 <a href="https://arxiv.org/abs/2503.23359"><img src="https://img.shields.io/badge/Paper-CVPR%202026-blue"></a>
 <a href="https://github.com/Linfeng-Tang/VideoFusion"><img src="https://img.shields.io/badge/Code-VideoFusion-green"></a>
@@ -19,11 +14,9 @@ M3SVD: Multi-Modal Multi-Scene Video Dataset
 
 - **[2026]** Our paper  
   **“VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion and Restoration”**  
-  has been accepted to **CVPR 2026**.  
-  [[Paper](https://arxiv.org/abs/2503.23359)]  
-  [[Code](https://github.com/Linfeng-Tang/VideoFusion)]
+  has been accepted to **CVPR 2026**.  [[Paper](https://arxiv.org/abs/2503.23359)] [[Code](https://github.com/Linfeng-Tang/VideoFusion)]
 
-- **[2025]** M3SVD dataset is officially released.
+- **[2025]** [**M3SVD**](https://github.com/Linfeng-Tang/M3SVD) dataset is officially released.
 
 ---
 
@@ -33,15 +26,7 @@ M3SVD: Multi-Modal Multi-Scene Video Dataset
 
 - 🔥 Multi-modal video fusion  
 - 🌙 Low-light / degraded video restoration  
-- 🎯 Cross-modal perception tasks  
 - 📹 Spatio-temporal modeling research  
-
-Unlike existing datasets that mainly focus on **static image fusion**, M3SVD is specifically constructed for **video-level multi-modal learning**, with emphasis on:
-
-- Temporal consistency  
-- Real-world degradations  
-- Scene diversity  
-- Accurate spatial registration  
 
 ---
 
@@ -50,15 +35,7 @@ Unlike existing datasets that mainly focus on **static image fusion**, M3SVD is 
 - **220** temporally synchronized IR-VI video pairs  
 - **153,797** aligned frames  
 - Resolution: **640 × 480**  
-- Frame rate: **30 FPS**  
-- Diverse environments:
-  - Daytime
-  - Nighttime
-  - Low illumination
-  - Occlusion
-  - Disguise
-  - Complex backgrounds
-
+- Frame rate: **30 FPS** 
 ---
 
 # 🎥 Scenario Schematic
