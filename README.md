@@ -12,8 +12,7 @@
 
 ## ✨ News  
 
-- **[2026]** Our paper  
-  **“VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion and Restoration”**  
+- **[2026]** Our paper **“VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion and Restoration”**  
   has been accepted to **CVPR 2026**.  [[Paper](https://arxiv.org/abs/2503.23359)] [[Code](https://github.com/Linfeng-Tang/VideoFusion)]
 
 - **[2025]** [**M3SVD**](https://github.com/Linfeng-Tang/M3SVD) dataset is officially released.
