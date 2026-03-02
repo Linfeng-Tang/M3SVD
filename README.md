@@ -11,7 +11,7 @@
     <a href="ttps://pan.baidu.com/s/1g8jixAr39n06JWPwrBE6lQ?pwd=M2VD">
       <img src="https://img.shields.io/badge/Baidu-Images-2319DC?logo=baidu&logoColor=white" alt="Baidu Images">
     </a>
-    <a href="https://pan.baidu.com/s/1R6HOSMXCHSiPEywU0GK_hw?pwd=M2VD">
+    <a href="https://pan.baidu.com/s/1z_kMLxYejPvt_17SNGlOTA?pwd=M2VD">
       <img src="https://img.shields.io/badge/Baidu-Videos-2319DC?logo=baidu&logoColor=white" alt="Baidu Videos">
     </a>
     <a href="https://drive.google.com/file/d/1bRoNhQBzWtj0y8CMGdXQvjbQCGAVddPX/view?usp=sharing">
