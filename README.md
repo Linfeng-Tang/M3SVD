@@ -19,7 +19,17 @@
     </a>
   </p>
 </div>
+## 📦 Notes on Provided Formats (Images vs. Videos)
+- **Images** are released in the **native per-frame format** that is **directly used by the VideoFusion project** (i.e., frame sequences under each clip folder), so you can plug them into the training/testing pipeline without any extra conversion.
+- **Videos** are additionally provided by **packing each frame sequence into a single video file** (e.g., `.mp4`) to **reduce file count** and **avoid storage / hosting limitations** (many platforms struggle with extremely large numbers of small image files).
 
+## 🧾 Folder Meaning
+We provide both **high-quality (clean/enhanced)** data and **degraded** data for infrared and visible modalities:
+
+- **infrared_Enhance**: **High-quality infrared (IR)** frames (clean/enhanced version).
+- **visible_Enhance**: **High-quality visible (VI)** frames (clean/enhanced version).
+- **infrared_noise**: **Degraded infrared (IR)** frames with **stripe noise** (a typical IR sensor degradation).
+- **visible_Blur**: **Degraded visible (VI)** frames with **blur** (e.g., motion/defocus blur).
 ---
 
 ## ✨ News  
