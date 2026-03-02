@@ -8,7 +8,7 @@
     <a href="https://github.com/Linfeng-Tang/VideoFusion">
       <img src="https://img.shields.io/badge/Code-VideoFusion-green" alt="Code">
     </a>
-    <a href="https://pan.baidu.com/s/1FhUirShTQ02N5Dl3pgl-PA?pwd=M2VD">
+    <a href="ttps://pan.baidu.com/s/1g8jixAr39n06JWPwrBE6lQ?pwd=M2VD">
       <img src="https://img.shields.io/badge/Baidu-Images-2319DC?logo=baidu&logoColor=white" alt="Baidu Images">
     </a>
     <a href="https://pan.baidu.com/s/1R6HOSMXCHSiPEywU0GK_hw?pwd=M2VD">
