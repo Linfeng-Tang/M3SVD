@@ -4,8 +4,11 @@
 <p>
 <a href="https://arxiv.org/abs/2503.23359"><img src="https://img.shields.io/badge/Paper-CVPR%202026-blue"></a>
 <a href="https://github.com/Linfeng-Tang/VideoFusion"><img src="https://img.shields.io/badge/Code-VideoFusion-green"></a>
-</p>
 
+[![Baidu Images](https://img.shields.io/badge/Baidu-Images-2319DC?logo=baidu&logoColor=white)](https://pan.baidu.com/s/1FhUirShTQ02N5Dl3pgl-PA?pwd=M2VD)
+[![Baidu Videos](https://img.shields.io/badge/Baidu-Videos-2319DC?logo=baidu&logoColor=white)](https://pan.baidu.com/s/1R6HOSMXCHSiPEywU0GK_hw?pwd=M2VD)
+[![GoogleDrive Videos](https://img.shields.io/badge/GoogleDrive-Videos-4285F4?logo=googledrive&logoColor=white)](https://pan.baidu.com/s/1R6HOSMXCHSiPEywU0GK_hw?pwd=M2VD)
+</p>
 </div>
 
 ---
