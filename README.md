@@ -24,6 +24,13 @@
 - **Images** are released in the **native per-frame format** that is **directly used by the VideoFusion project** (i.e., frame sequences under each clip folder), so you can plug them into the training/testing pipeline without any extra conversion.
 - **Videos** are additionally provided by **packing each frame sequence into a single video file** (e.g., `.mp4`) to **reduce file count** and **avoid storage / hosting limitations** (many platforms struggle with extremely large numbers of small image files).
 
+## 🔁 Convert Videos to Frame Sequences (Recommended)
+If you download the **Videos** version and need **per-frame image sequences** (the format directly used in **VideoFusion**), please use:
+
+- **video2img.py**: https://github.com/Linfeng-Tang/M3SVD/blob/main/video2img.py
+
+This script converts each `.mp4` clip into an ordered frame sequence and restores the dataset layout for training/testing.
+
 ## 🧾 Folder Meaning
 We provide both **high-quality (clean/enhanced)** data and **degraded** data for infrared and visible modalities:
 
