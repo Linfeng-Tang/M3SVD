@@ -14,7 +14,7 @@
     <a href="https://pan.baidu.com/s/1R6HOSMXCHSiPEywU0GK_hw?pwd=M2VD">
       <img src="https://img.shields.io/badge/Baidu-Videos-2319DC?logo=baidu&logoColor=white" alt="Baidu Videos">
     </a>
-    <a href="https://pan.baidu.com/s/1R6HOSMXCHSiPEywU0GK_hw?pwd=M2VD">
+    <a href="https://drive.google.com/file/d/1bRoNhQBzWtj0y8CMGdXQvjbQCGAVddPX/view?usp=sharing">
       <img src="https://img.shields.io/badge/GoogleDrive-Videos-4285F4?logo=googledrive&logoColor=white" alt="GoogleDrive Videos">
     </a>
   </p>
