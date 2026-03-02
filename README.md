@@ -1,16 +1,24 @@
 # M3SVD: Multi-Modal Multi-Scene Video Dataset
 
 <div align="center">
-<p>
-<a href="https://arxiv.org/abs/2503.23359"><img src="https://img.shields.io/badge/Paper-CVPR%202026-blue"></a>
-<a href="https://github.com/Linfeng-Tang/VideoFusion"><img src="https://img.shields.io/badge/Code-VideoFusion-green"></a>
-&nbsp;
-[![Baidu Images](https://img.shields.io/badge/Baidu-Images-2319DC?logo=baidu&logoColor=white)](https://pan.baidu.com/s/1FhUirShTQ02N5Dl3pgl-PA?pwd=M2VD)
-&nbsp;
-[![Baidu Videos](https://img.shields.io/badge/Baidu-Videos-2319DC?logo=baidu&logoColor=white)](https://pan.baidu.com/s/1R6HOSMXCHSiPEywU0GK_hw?pwd=M2VD)
-&nbsp;
-[![GoogleDrive Videos](https://img.shields.io/badge/GoogleDrive-Videos-4285F4?logo=googledrive&logoColor=white)](https://pan.baidu.com/s/1R6HOSMXCHSiPEywU0GK_hw?pwd=M2VD)
-</p>
+  <p>
+    <a href="https://arxiv.org/abs/2503.23359">
+      <img src="https://img.shields.io/badge/Paper-CVPR%202026-blue" alt="Paper">
+    </a>
+    <a href="https://github.com/Linfeng-Tang/VideoFusion">
+      <img src="https://img.shields.io/badge/Code-VideoFusion-green" alt="Code">
+    </a>
+    &nbsp;
+    <a href="https://pan.baidu.com/s/1FhUirShTQ02N5Dl3pgl-PA?pwd=M2VD">
+      <img src="https://img.shields.io/badge/Baidu-Images-2319DC?logo=baidu&logoColor=white" alt="Baidu Images">
+    </a>
+    <a href="https://pan.baidu.com/s/1R6HOSMXCHSiPEywU0GK_hw?pwd=M2VD">
+      <img src="https://img.shields.io/badge/Baidu-Videos-2319DC?logo=baidu&logoColor=white" alt="Baidu Videos">
+    </a>
+    <a href="https://pan.baidu.com/s/1R6HOSMXCHSiPEywU0GK_hw?pwd=M2VD">
+      <img src="https://img.shields.io/badge/GoogleDrive-Videos-4285F4?logo=googledrive&logoColor=white" alt="GoogleDrive Videos">
+    </a>
+  </p>
 </div>
 
 ---
