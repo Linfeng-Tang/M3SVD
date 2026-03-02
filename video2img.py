@@ -3,8 +3,8 @@ from pathlib import Path
 from tqdm import tqdm
 
 # ================= Config =================
-INPUT_BASE = Path(r"G:\M3SVD_Video")  # folder containing .mp4 videos
-OUTPUT_BASE = Path(r"G:\M3SVD")  # folder to save extracted frames
+INPUT_BASE = Path(r"./M3SVD_Video")  # folder containing .mp4 videos
+OUTPUT_BASE = Path(r"./M3SVD")  # folder to save extracted frames
 
 SPLITS = ["train", "test"]
 DIRS = ["infrared_Enhance", "visible_Enhance", "infrared_noise", "visible_Blur"]
@@ -54,3 +54,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
