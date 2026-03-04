@@ -21,6 +21,10 @@
 </div>
 
 ## 📦 Notes on Provided Formats (Images vs. Videos)
+### Baidu Netdisk Images: https://pan.baidu.com/s/1g8jixAr39n06JWPwrBE6lQ?pwd=M2VD
+### Baidu Netdisk Videos: https://pan.baidu.com/s/1z_kMLxYejPvt_17SNGlOTA?pwd=M2VD
+### GoogleDrive Videos: https://drive.google.com/file/d/1bRoNhQBzWtj0y8CMGdXQvjbQCGAVddPX/view?usp=sharing
+
 - **Images** are released in the **native per-frame format** that is **directly used by the VideoFusion project** (i.e., frame sequences under each clip folder), so you can plug them into the training/testing pipeline without any extra conversion.
 - **Videos** are additionally provided by **packing each frame sequence into a single video file** (e.g., `.mp4`) to **reduce file count** and **avoid storage / hosting limitations** (many platforms struggle with extremely large numbers of small image files).
 
